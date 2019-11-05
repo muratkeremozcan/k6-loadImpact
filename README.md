@@ -1,31 +1,3 @@
-> ## Demo Agenda
->Installation
->
->Basic examples:
->
->* GET_example.js
->	--http-debug
->* script.js
->* http_post.js
->* selectors.js
->
->Kinds of performance tests, how they translate (Endurance testing, stages, pic)
->
->Thresholds.js  vs checks
->
->Test life cycle
->
->BO examples
->
->Cloud & [token](https://app.loadimpact.com/account/token)
->
-> Pipeline
-> 
-> Postman to k6 ([Protocol Adapter](https://code.siemens.com/horizon/facility-manager-ba/pa-haystack) example)
-
-
-# k6 performance tests independent repository
-
 ## [Setup](https://docs.k6.io/docs/installation)
 Linux:
 ```bash
